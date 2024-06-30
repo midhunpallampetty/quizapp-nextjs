@@ -3,5 +3,5 @@
 @tailwind utilities;
 body{
   background-image: url('../public/ultra-detailed-nebula-abstract-wallpaper-3.jpg');
-  background-size: cover;
+  background-size: 100%;
 }

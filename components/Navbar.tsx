@@ -7,7 +7,7 @@ const Navbar : React.FC=()=>{
 <Link href='/questions/answers' className="text-white font-extrabold font-mono text-2xl">Answers</Link>
 <h1 className="text-white font-extrabold font-mono text-2xl">About</h1>
 <h1 className="text-white font-extrabold font-mono text-2xl">Contact</h1>
-<Link href='/add' className="text-white font-extrabold font-mono text-2xl">Add</Link>
+<Link href='/add/new' className="text-white font-extrabold font-mono text-2xl">Add</Link>
 
 
 </div>
